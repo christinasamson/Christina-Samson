@@ -1,8 +1,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinasamson)](https://github.com/anuraghazra/github-readme-stats)
  
-[Software Development]
-https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg
+[Software Development](https:https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg)
 
 ### Hi there 👋, my name is Christina Samson
 #### Software Development
