@@ -4,7 +4,7 @@ Hi 👋 My name is Christina Samson
 Web Developer and Designer
 --------------------------
 
-\#### Software Development I am a student at CodeSpace Academy currently pursuing a course in Software Development. I am optimistic about improving my skills in coding, problem-solving, and creating innovative solutions through this program. With a passion for technology and a drive to excel in the field, I am excited to explore new challenges, collaborate with like-minded individuals, and push the boundaries of what is possible in the world of software development I am committed to continuous learning, growth, and development, and I look forward to making a positive impact in the tech industry with my enthusiasm, dedication, and expertise.
+\#### I am a student at CodeSpace Academy currently pursuing a course in Software Development. I am optimistic about improving my skills in coding, problem-solving, and creating innovative solutions through this program. With a passion for technology and a drive to excel in the field, I am excited to explore new challenges, collaborate with like-minded individuals, and push the boundaries of what is possible in the world of software development I am committed to continuous learning, growth, and development, and I look forward to making a positive impact in the tech industry with my enthusiasm, dedication, and expertise.
 
 *   🌍  I'm based in Cape Town
 *   ✉️  You can contact me at [chsamson.codes@gmail.com](mailto:chsamson.codes@gmail.com)
